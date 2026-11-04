@@ -1,0 +1,855 @@
+
+00:15 
+From a long time we are doing the math. So let's move on to the another topic. This is the way. We will complete our syllabus. 
+
+00:20 
+Like some of the topic will be done out of that may be parallelly we can start another unit. So now is the time when parallelly we need to until the events. 
+
+00:28 
+I already understand how to study and the foundation is also clear. Now we have done the foundation. So now it is the time where we need to focus on this. And how to cover syllabus. Quickly. 
+
+00:37 
+And how much input you can put. That is very, very important. And I am. We are giving you mock test. We are giving you queens taste maximum as much as possible. We will provide you. 
+
+00:48 
+But it is a request to everyone. Please, please take it seriously. Not only learning after learning if you are not academic test, you are not practicing. Then your learning will be not counting. 
+
+00:55 
+Okay. Complete your landing practice is very, very important. That's why test is important. Otherwise why I am giving you test every weekend. You are getting test and I am. 
+
+01:02 
+We are trying to add more queens like small, small queens for topic points. So whenever you are doing it more, then it will be helpful for you. Whatever topic is done. 
+
+01:09 
+On those topic or those class, we will add some quiz. Why? To do the revision. This is the way of revision. See that so many topics in now done. Thereby they will learn so many talking. 
+
+01:16 
+If by day your revision area will be more. Yes. Now I am starting another company. So different. Whatever we have done. If you are not revising, you will follow. Easy way of previous. 
+
+01:23 
+That's why I plan one thing. 
+
+01:24 
+The easy way of getting without watching the class or without watching the video directly with the class we will attend some queens like maybe five question 10 questions something some questions related to that class. 
+
+01:33 
+So directly whenever you are getting time attempts. Yes, I have to do the revision of this topic. So I give the quiz. It will tell you maybe hardly 10 minutes to 20 minutes time. 
+
+01:39 
+But that 10 to 20 minute time is continuously you are investing to recall those topic whatever you have learned previously. It will be easy and day by day you will get that. Okay. 
+
+01:45 
+New topic also I have nothing hold of information is also going on. Okay. Otherwise what will happen? Divide I will not name topic. Especially in the math. 
+
+01:51 
+Especially in the practice area where ringworm practice daily practice in computer science you will see so many distribution this type of topic is there where daily practice will be incurred. 
+
+01:57 
+So you need to plan. I have to learn the new topic also and I have to revise the old topic. It is the best way to practice. If you go and practice the question that is the best way. 
+
+02:04 
+If you are getting some then then check your notebook or watch the recording with two screen on that area particularly if you are not planning in tongues and you will see you will be not able to cope up with the syllabus very much. 
+
+02:13 
+Syllabus. If you will see any mass syllabus and more than that parallelly now you need to balance like two topic parallelly. Okay. Maybe only you are learning something. 
+
+02:20 
+I am giving you some recording. You want start recording. That is the way you need to balance. Now if you are putting your more effort then before exam there will be relapse. You will be relaxed. 
+
+02:27 
+If. Now you are not taking your input now you are not investing your time before exam there will be tension. Okay. 
+
+02:31 
+So now as much as possible try to invest your time so that before in dump there will be no tension. My point yes. 
+
+02:37 
+And those who joined late that is the more important those who join late you please complete whatever till now you have not completed that is your past target live class with the live class what is going on now and whatever you have not done in the foundation folder. 
+
+02:46 
+This is this class is. Between CUI filter computer architects whatever you have not done in foundation pulled out mass complete as early as possible. 
+
+02:52 
+As early as possible you are not completing this that will be lagging. There will be lagging and you will be not able to cope up with upcoming things. 
+
+02:57 
+Because those foundations will be required for in each and every well either everywhere you will tell that difficulty are not able to understand that I am not able to understand this so that's important never ending exactly and impending they were ending always remember okay so let's start without wasting time mode yes so. 
+
+03:13 
+Is your another core area. 
+
+03:15 
+Because when you understand architecture of the computer then this is related with your operating system this is related with your networking this is related with your database this is related with your AI because computer how the computer is running how how it is working if you don't know then you cannot relate the other subject also again so this is the first thing computer architecture architecture means what what is there what is going on there is that there are some main core area of computer architecture that is HR processing unit random access memory raw basic input output what is this? 
+
+03:38 
+When you I will tell you like a story you listen to me and if you want you can take your note also but I'm telling you from this topic always you are getting question although it is very basic topic very core area foundation of architecture you can think but today's class is very very important from here during question Indian question so many things you will get so you can take your notes also I will explain you just like a story I'm trying to visualize it okay. 
+
+03:55 
+So I want going to switch on your computer that is laptop computer whatever you are going to switch on whenever you turn on the computer what is going on? Step by step thinking it. 
+
+04:03 
+You switch on your computer then and they are in start booting right first of all it will start good but at. The time of booting what is booting what is going what is going on in the. 
+
+04:12 
+Time of putting computer is calling input output right bias biasing input output that means bias. Where it is. 
+
+04:20 
+Where from where you are calling from where we are calling it from wrong read only memory this is wrong. In the wrong. 
+
+04:28 
+Computer is storing what that basic input output information that booking information just at the time of putting the main program the initial program one thing to call you that should be there in this row and that's why Rom is non volatile non volatile names if you switch off the computer then also it is able to store that data it is not erasable it will not forgot right it will not forgot it is not divisible that's why this is wrong in the wrong we are storing that I think input output data not only we are not storing at the time of configuration of computer whether you are purchasing any computer maybe sometimes you are purchasing the computer without operating system no operating system is there but at least the booting at least the buyer should be there that investing input output. 
+
+05:03 
+Right that should be there if it is not there then you cannot interact with the system at least the booting should be there whenever booting is done then the next step I can go that's why in your bias is gone then you cannot exact because we are able to contract with the computer computer is the hardware and we need some software to interact that breeze is required and you want to install operating system for that also the basic thing is required that is here right after that it is calling the next part is that it will call the operating system operating system is the software this software where we are storing is in the wrong this is not in wrong this is in the hard case we are calling this operating system. 
+
+05:34 
+Either if it is already installed then you are directly calling if it is the new computer it is not installed then we are installing the operating system like Windows operating system Linux operating system any type of operating system we are installing mine because operating system will give you that interface operating system will create the brains between Hardware and software right because this Hardware computer is actually working with zero and one machine language binary that we don't know. 
+
+05:54 
+We don't know how to interact with that where is that how to store so we need some Graphics we need something so that we can understand it right that's why this operating system is giving us a graphical user interface graphical user interface that is du I right that graphical user interface means whenever operating system is there you are able to see a screen that your desktop there are some button there are some menus there are some holders you are going to visualize it is the visualization it is a graphical user interface which is provided by the operating system from which you are interacting with your computer yes I am going to store something that is in this folder I am going to run some program then I will install some compiler and all that that all thing actually operating system is providing us to maintain the bridge right where we are storing in it is in hardness it is not in wrong wrong means only biasing our input output device system. 
+
+06:32 
+But. Here. Hard things installing this. But now. That. What is RAM? There is you will see that the central. 
+
+06:38 
+Processing unit CPU CPU is helping you to do all the work all the calculation all the work whatever you are interacting with the computer it is going through the CPU that is the main processing unit right and next one is you can see the ram what is the difference between wrong and RAM very very important questions are coming multiple time many time question came from here what is the difference between R and Rov is required by no means required I told you by Ram is required you see here. 
+
+07:00 
+The ram. Architect. Ure is like that. CP. U. Inside the CPU. 
+
+07:06 
+There are register very carefully listen to me many times questions are coming from here I will also ask you question if you are doing mistake then I will score you inside the CPU there is register which is the fastest device fastest. 
+
+07:16 
+They are asking that. 
+
+07:16 
+First 10 storage which one is the first storage that is register because inside the motherboard register is your in will there be the in bill register and register capacity there are two types of question one is as per the students another is as per the speed two types of question as per the students whenever they are asking that remember the resistor students is left okay that means capacity of storing information size it will be spent in the highest point register speed is the highest one okay. 
+
+07:41 
+But. Limited. Because as per. Your means you cannot add that. Much resistor limited resistor will be there may be two types of register one is special purpose register. Another is general purpose. 
+
+07:52 
+Means special purpose registers are helping us to do all the work there are so many special purpose of register line program counter instruction register memory address register memory buffer register what are the one of those register from here also again you are getting so many questions again not only paper two computer science you have one general knowledge type question also it is the part of ICD right so these are your special orders there are so many special purpose register which is helping simply to do the work then sister and for the computer is using it and there are some general purpose resistance particularly some name will be there like BCD according to the process according to what type of processor you are using can be can be registered one two like that name also can be done but these are general but means user can use to store the data. 
+
+08:32 
+Okay but in the limited. 
+
+08:33 
+Limited number of existential will be there because cost of the register is also very high memory lens cost is high and speed is also very high super fast resistor in the super fast one the screen is also very high resistor is here. 
+
+08:45 
+Now normally. What we will think in there in hard things. Here also you need to understand one thing nowadays there is SSD also. 
+
+08:53 
+Solid state disk previously there was only hard things nowadays there is solid state disc also which is more line width and speedings also more since both are using as second guiding students two type of students are there both are working as the secondary students okay but. 
+
+09:07 
+Why nowadays most of the laptop. 
+
+09:08 
+Is using SSD because SSD is lightweight and speed is also more everything cost is also more cost is more but it is giving you more speed nowadays we want everything very high speed high speed high speed that's why maximum laptop when providing nowadays SSD rather than that engineering. 
+
+09:20 
+And sometimes combination of SSD and handling both together you are getting but this both are secondary students second time students means where you are storing your data like your file your folder your program your music your videos your song whatever you want to story was throwing hairline that is your storage area you are accessing through the folder normally you are dividing into the drive see drive the drive and all you are dividing even also in this hard drink so link we are storing the operating system also. 
+
+09:40 
+Not only our data is storing operating system also operating system also stored here. 
+
+09:43 
+Normally we are storing the operating system in the same line that is the normal convention of any computer we are dividing in C drive in which is only drive then everything is in same line but normally. 
+
+09:50 
+We are making a parting driving drive we are storing operating system but that is also maybe in the secondary storage. 
+
+09:56 
+Then what is RAM these are all my secondary students in between there the speed of the CPM is very high and although the SSD is made up there but still compared to the CPU the speed is low okay. 
+
+10:07 
+When. Ever you want to learn something you want to run a program you want to run a process means even working anywhere you are working anywhere right so to work something evening sprint. 
+
+10:16 
+You need to invest very high speed things. And compare to. 
+
+10:20 
+Whenever I want to run something I mean some area when spin is more and it is able to handle with the CPU that's why near the concept of primary memory this is your secondary memory is all are your secondary memory I need something like primary memory. 
+
+10:34 
+Why. At the time of. 
+
+10:34 
+Program on execution whatever process you are trying to execute whatever program you are trying to execute those part will be taken to the primary memory will be taken to the primary memory and then it will be executed by the CPU. 
+
+10:44 
+So that a speed will be adjust against. This primary memory cost is more. Speed is more cost is also more that is your RAM. Here you are getting this RAM. 
+
+10:53 
+And one problem of grammar is also there first of all cost cost is very high second thing is that it is gola time that means it is working as a temporary area whenever you are running it then you are taking your program into the ram it will help you to run but whenever you will switch off your computer then it will forgot everything. 
+
+11:08 
+It will erase everything it will forgot everything that's. Why this. RAM is. Name is students okay so. RAM is giving. Me speed. RAM is helping me. To run. Any program. And. 
+
+11:21 
+To make the balance with the CPU screen that's why this primary memory require. Okay. Now. Here also another. Thing is that. This RAM is also. Two type. Of gram is there one is. Static RAM. Another. 
+
+11:33 
+Is Dynamic. Types of gram is there one is called starting another is called Dynamic. Again that is Islam. And DRAM. This. Is have been starting. RAM is again compared to Dynamic RAM the static. 
+
+11:47 
+RAM is again more speed. It means the speed is more okay and. 
+
+11:50 
+Dynamic RAM speed is less so here we starting RAM we are using as catch or cache whatever you are telling cash or cash this is your cash memory or cash memory okay. 
+
+11:59 
+And Dynamic rapping normal primary memory you are using it normal as a primary memory. Why again this two demand division is required. 
+
+12:06 
+Because as cat is giving me more speed while this standing and dynamic two things are required why may be divided in this two part what is the importance here there also some importance is there. 
+
+12:14 
+When you think whenever you are you are running every day you are working wherever you are working there are something which is you are not changing that much in your program also if you think in your work also if you think some of the part are there which will not change the thing like like your website any website anyone website normally homepage whatever you are going to see in the home page that is normally fixed static right whenever. 
+
+12:34 
+You are entering to anything like your course page or your friends or anything like it can change always so there are two things whenever we are working something will be not that much changes are required that is standing and something. 
+
+12:43 
+Will be which is frequently changing will change that is Dynamic so same way whenever you are running the program there may be something starting which will not change that much but it will require very frequently. 
+
+12:53 
+We are not changing but to run the program but to execute the program you need to access it more frequently those type of data where once if you need very frequently and it is not changing that much those things we are using in catch okay that is your cache memory in the cache memory we are storing those type of data which will be more frequently used by CPU and non changing that much that's why this is tapping. 
+
+13:13 
+Okay. And this is. Dynamic. 
+
+13:15 
+Where we will keep on changing those data that's why this is Dynamic why this Dynamic is required because we are just we are monkey mind our we are working as also monkey mind and women also spend less. 
+
+13:24 
+Now you are running one program just after. Sometime you will run another program you will run. Something else. Right. So. 
+
+13:30 
+As you are changing keep on changing this program that program this work that work we are moving right now we are watching the song letter we are working something later we are watching YouTube sometimes we are going to Facebook sometimes we are going to YouTube sometimes we are learning sometimes you are watching sometimes you are doing the test like that. 
+
+13:42 
+Yes. But here this is your. Area. 
+
+13:45 
+This dynamic area that's fine again and again you are changing something again and again these changes are going on and these changes are going on that's why this DRAM Dynamic RAM will be required but in in this DRAM frequently change will be going on whenever you are running something that will be taken to that DRAM and it will be executed after that again you will be present with another one these implants will be going on. 
+
+14:02 
+This is here. These are actually your normal students the students concept is clear to everyone yes. 
+
+14:08 
+Is this concept clear to everyone now I'm going to take your doubts and all whatever your queries and all first tell me till now whatever I explain is that clear. Ing. 
+
+14:23 
+Is done by bias and hard picks not wrong. 
+
+14:31 
+Is the student area where you are storing that bias basic input output system where we will store the store in this area that is the load and we will call that wrong in wrong not means you are storing there. 
+
+14:41 
+Okay. We are storing that is the storage area exactly that. Will be stored into the norm. Static that's why more faster no change. 
+
+14:56 
+That is coming I'm coming inside the Israel and the ramistor what is the reference at all that we will explain first understand this. Inside that we will come. First one. By one step by step. 
+
+15:10 
+Understand. I'm about. Wrong held them in short again I already told why I have to repeat again. 
+
+15:15 
+Listen I am telling you always please listen to me carefully don't ask me to repeat that will be waste of time if you are not able to listen if you are not. Focus. 
+
+15:23 
+Ed then that are you once the recording. Don't. Ask me to repeat again. And again that will waste. That time is very much. Valuable. It is your duty to focus. Okay. Yes so frequently. Asked why. 
+
+15:34 
+It is studying. Because of that it is. Certain frequently change the. That is I'm telling you yes. Cash. Is starting because. Why? Because why. The cache is stat. Ic that. Is. I. 
+
+15:43 
+Need cash means what. See cash means what? We are storing in cash even also in your browser in your computer also there is some catch right. Fine. Because. Everywhere these. 
+
+15:52 
+Cash concept is their win. E because if. Every. Time I have to. Access. My secondary memory. Then I have to take. It then I have to run. In it will be a wastage of time. 
+
+16:00 
+Always in the work there are some thing which always we need. Just lying. In your kitchen. Think about your kitchen. In your kitchen. You are. Just beside your store you are putting your oil salt. 
+
+16:12 
+Spices turmeric. Wine. And other things maybe. You are keeping inside. Or somewhere. But those. Things always. We are keeping very. Very. Easily accessible area. Why because these. 
+
+16:22 
+Are the very common. Thing what always. Require. Is it not anything you want to. Cook you need. Always. We are mostly using. It. 
+
+16:28 
+These are not changing the salt will be solved only the oil will be well only the. Turmeric. Is. On different different dishes maybe you are using different. Different spices. 
+
+16:35 
+That spices may change other thing may be changed today you are making some. Dal another day maybe you are preparing another dal that's why. Those dal may be. Working inside the. 
+
+16:41 
+Wardrobe but those things always we are keeping in the same area. And that should be very easily accessible area. Same thing is ram. Same thing is the cach. 
+
+16:47 
+E cash is that where we are storing too much freque. Ncy using data and never changing most useful data. Where mostly always behind. 
+
+16:54 
+It is that type of data we are storing always into the cache that will never change even. That is not that much change that is always standing. That's fine. Now we are just. 
+
+17:01 
+Think about your kitchen. Think about anything when. Ever you are. Working in your desk. Always one paper and pain will be there in the desk. Other than that books may be an inside. 
+
+17:08 
+Some books always you are using maybe your notebook that will be always in your test. But other than that something. Always daily where. Whatever you are using daily wear that is always outside. 
+
+17:15 
+But. Occasionally you are using. Some dresses some saris or something that is your keeping in one drop. Fine. Same thing comp. Uter is also doing but is. Mostly useful always I need. 
+
+17:23 
+Why I am keeping. Anywhere always I. Need it means. Okay your computer. Is on. You need this always. It will never change it will not. That much change will be there. Okay keep me into. 
+
+17:30 
+The Israel that is your. Static graph that will be worked as a. Cash now. Remaining things what. Will be changing changing. That is keeping into your. Dynamic drive. That is your. Okay. 
+
+17:37 
+And other than that. That is just like your. Control just like in the wardrobe. You are putting all these. Material you are keeping. Everything your. Monthly. Whenever you are going. 
+
+17:43 
+For monthly shopping. You are taking everything. Together and you are. Keeping inside your. Wardrobe right. That is all. Everything will be required. But whenever you started. 
+
+17:49 
+Working whenever you are starting. Your cooking. That's something you are taking out. You start adding you are keeping. Inside. Same comp. Uter is on okay today we will. Work on this so now we will. 
+
+17:55 
+Work on this okay take. These things start. Working. But be most useful. Take it into the Instagram. One will be okay maybe. I need to change it. Take it into the. Data and. Whatever more data. 
+
+18:03 
+Is required students is requ. Ired keep it into hard. Disks only whenever. Required I will think. Clear. Always I am telling you. That's why compute. Are relent with. Your daily life. 
+
+18:11 
+Reliant with your dail. Y life that will be super. Easy understanding for you. This is your. Right power. You think it. Rice container. Wing container right. Rice container is a beam cont. 
+
+18:18 
+Ainer normally we are. Keeping our eyes raw. Eyes. Right daily. We are taking some. Amount of rice. In your. Towel in your business. Some amount of price. You are taking daily. For cooking. 
+
+18:26 
+So this is. Your hard. Ticks. Where the monthly stor. Age of lines is there this is. Your hard risk. And even taking some amount of. Price for your. Daily cooking. That means you are taking. 
+
+18:34 
+Those rice into. Your ram. This is coming. Into your. Ram right. That means okay today I am. Cooking this. That is your. M total data. Is in your heart rates. Some amount of data. 
+
+18:42 
+You want only you are ending. Finished that is finished. That means that. You will switch on your compute. Time you switch on your. Store you. Go pick you eat. It's gone. That means. You are your. 
+
+18:50 
+Using. Is done. It. You. Convert everything. But the student. Is there again. Next day we will do it. Why are you. Cooking? You need something to prepare. Your other dishes. That. 
+
+19:00 
+It is even thinking. As is that stat. Ic gram and there are some. Those. Files. Turmeric. And salt. Oil those things. Always you are keeping in your. This is think like. Your dump. These are your. 
+
+19:10 
+Because. At the wine cook. Ing I need it always. That's why I. Am keeping it to the ism. Always I need those things. So that should be very. Close. Now I am. Executing that is cpv is executing it. 
+
+19:18 
+Execution is done. Eating is done complete. All other than. Thing will be wearing hard. Disks with the rice other than. Whatever you are containing. For a long time. Then will be there. To. 
+
+19:26 
+Relent the concept. The. Relation if you are letting. You will never convert. Okay. I hope no doubt. Now. So. This is you power. Supply unit that means you switch. 
+
+19:34 
+On the power of the slack you switch. On your stroke that is your power. Supply. So these are your. Core area what I. Explained like a story you. Can read it physical. And all you can read this one. 
+
+19:40 
+Here you are. Using this keyboard. Hard links plugin. Those are your basic area. S no need to explain. IOM this is one thing I need to. Explain. In outbound. Device till now we. Work as a students. 
+
+19:48 
+Students was there. But I need some. Input output device also. Through which. You are interacting. With you are giving. Input to the computer. You are checking out. That is input. Output device. 
+
+19:56 
+Right that memory. Other than profit process. Until now we are working. With process. But I need. Input output system. Also that is very very important. Because otherwise how. You will give input. 
+
+20:02 
+How we will get the output. Right. Now this input. Output devices are helping. Us. One what. Are the devices. Like yes this is also. Input output device. With this pen I am. Writing here. 
+
+20:11 
+Right that is also input out. Put device actually. This is bina. Ry term this is also a captive. Directory this is also a device. Right where I am writing. So this is input output. 
+
+20:17 
+Device without this can. I interrupt no I cannot. Write then thing you are using. Your keyboard you are. Using your mouse. Even also. Your. Your display. System this total display. System is in. 
+
+20:24 
+Put output right in this. Display system only I'm showing you. I am giving input. I am writing also. Yes so this is. The basic area I need. Input output devices input. Output devices are always. 
+
+20:31 
+Important and. So your mouse key. Board all these you. Put out. Put. You are interacting with computer. Next thing. Is. These are your. External means. These are actually the external. 
+
+20:41 
+Event also this one. This I am talking. You are going to listen. Right Mike. Mic is also working. As a in two you are going to listen. If the mic is not there. Will be. No these are external. 
+
+20:48 
+Devices who I am. Connected with the computer in. Front of me there is a computer. And even. Also there is a camera. Which camera. You are able to see me. Through this you are able. 
+
+20:54 
+To listen me so I am. Setting the input from the camera. Through the mind. Through the system. To the computer. So the computer only. The swimming is going on. Right so computer. 
+
+21:00 
+Is getting input from me. Through these all. Then only. Even getting that. Output you are. Watching the output I am. Giving in only you are watching. That output so. Input output devices are. 
+
+21:07 
+Very very important here. What are all external. Devices. These are not intern. Al right these all. Are outside the computer. This is. Not inside the compute. R is all are actually. 
+
+21:14 
+Outside the computer. That's why these all. Are your external. Input output dev. Ices. Yes. And. Inside your. Motherboard it is looking like this. This is inside your. Motherboard how it is. 
+
+21:22 
+Looking USB these. Are the port. Because nowadays. We are using wildness. Actually this one is. Not directly. Connected with computer. With the wireless. I am connected. But. There is a. 
+
+21:30 
+Cheap there are small. Small teams are there. Where I install. And see means back to my. CPU. That is. My receiver. To that rece. Iver only I am connect. Ed. Maybe directly where is not connected. 
+
+21:38 
+But the receiver is. Connected with the computer. Through the receiver. Actually is able to receive. My noise. Right. That's why this receiver. These are the port through. This which code. 
+
+21:44 
+You are connecting the receiver. Right. Through which port. You are connecting the. Receiver. So sometimes. It will be maybe. Directly connected or. Sometimes nowadays wireless. Connections and all. 
+
+21:52 
+But still. Some receiver at least. Some need to fix. There. Otherwise it will not. Able to receive. Yes. That's fine. Means is. There. Right. Which. One is close to C. PU? Yes, I'm telling you I'm. 
+
+22:01 
+Coming to that. CPU. Which. One. Just now I told. Me. Which. One you are keeping at. The time of cooking. At. The time of cooking which one you. Are keeping close. That is. Catch. Right. 
+
+22:17 
+Remember like this way you will never. Forgot. So. Here you see this is. Actual structure. Here now another. Function is coming. Of bulk because if you. This is IO this is extern. Al this is. 
+
+22:32 
+Channel. I need somewhere. The connect. Ion how. I will interact. How I will interact. That's why this. Bars are required. Just like whenever. You switch on your. Stove there. Is the pipe. 
+
+22:41 
+To means five you are getting. The gas connection. If the gap time is not. There if the cash is not. Connected the pipe is not. There will be not able to. Get the cash connect. 
+
+22:47 
+Ion and you will be not able to switch. On your toe also. Right. So. I am going somewhere. I am setting the data. Just like. I am working you are. Going to your college you are coming. 
+
+22:53 
+Back to from your college. Higher role. There is a role you need. A role you need. A path. Same thing computer also need. A path some. People also need that. Where the computer also need. The role. 
+
+23:01 
+To means. The all data will be. Travel. To travel the data. To send that data to receive the. Data it's. Required a path. That is your mass. These are called. Bars. This buses are. Helping. 
+
+23:10 
+These all to be connect. Ed external. Stories. IO controller. CPU all will. Be connected to. This bus that is just. Like where nothing else. Means. Buses. Are three types of bar. S are there. 
+
+23:19 
+What are those three types of. Bars as you can see here. Address. Bars data. Bars another. Mask is there that is called. Control. Bus. Three types of. Bus okay. Address bus data bus. Control bus. 
+
+23:29 
+Here also why it. Is required what. Is the difference between address. Bars and data bus. Very carefully listen to me I'm just telling. Like a story but I'm telling you. 100. 
+
+23:34 
+You are getting so many. Questions so many questions. You are getting from here. Listen to me very care. Fully. Here how. It will work. Using. What is. Our structure. CPU is here. Till now after. 
+
+23:43 
+That inside the. CPU. There. Is register. Here in. Cash mem. Ory. That. Is your s. RAM. And after that. Here. Is your main mem. Ory this is. Your. Data right. After that here is. 
+
+23:57 
+The second carry memory. That is your. Earnings. SSB all that. This is the way. How computer is. Connected. Always. Closest to the C. PU is register. Always remember close. 
+
+24:05 
+St to the CPU is actually. Register because. Inside the mother. Board CPU and resistor is there. After that. Catch. Then Islam. That is Islam then. Okay remember. This this is your. Now. Here. 
+
+24:15 
+I told you there are. Some special. Type of RAM. Also and. I'm not sorry there are some special. Type of register. Here. The concept of. Mar. I. M writing some. Program count. Er instruct. 
+
+24:25 
+Ion register. M a. R memory address. Register. Mbr. Or. MBR is. On both are same sometimes. You are getting confused with. The name. Remember that this. AR MBR. MDR and MBR the only. 
+
+24:35 
+Data register on buff. Er resistor both are. Actually same how. This is working. Why how. This address. Buses will work. Very important concept. Throughout the. Computer organization. 
+
+24:43 
+This concept will be requ. Ired very important. CPU. Is going to execute. Something. You are asking. CPU to. Execute one program. That means. You load. That program. This is your program. 
+
+24:52 
+You load this program. Into the RAM. Okay now. CP is going to execute. It whenever you are. Going. To run a program. Just a simple program. Maybe you are adding. It. You are going to do that. A. 
+
+25:01 
+Equals to b plus. C simple. Thing you are doing. A is a variable. B is the variable. C is the variable. You store something. In B. C and a so. These are the three variable. S are there. 
+
+25:10 
+These are two. Source. And one destination. Right now. B one. The variable. This. B can be. Stored in a. Memory there are two. Type of storage already. I told. I want to. Store something. 
+
+25:21 
+So there are two type of. Store one. Is register. Another is. Right. Either. I can store this. Variable event. Sir also or I can. Store the variable if. Likes of. Instruct. Ion there are. 
+
+25:31 
+Some state of resistance. What are general cons. Ensus that is not. In the uter. Us. In some general nervous system. Either in gas. Two or there are some. Memory that is. Your secondary. 
+
+25:39 
+Memory in the. Memory. Area will be there. That. Is requ. Ired. Maybe this memory we are. Dividing into some address. Just like you that number. You are. You are living in a. Society the. 
+
+25:48 
+Society what is. Where you are doing. For that you. Have. A package. Right. Same thing. Anybody you are dividing. The movie we are dividing. The memory too. Some address. That is the memory. 
+
+25:58 
+At so maybe. You are. Showing me the address and things like that. Maybe this one and. This one you sold. That location. And. The data. Is giving. Here 500. In. 
+
+26:07 
+The different. Thing. 
+
+26:09 
+You look at. That maybe this location. Is. More. Fine. And here you store. Six. Visualiz. Ing. This is your. Actress that means it is your flat. Number and this is. You where you are stowing. 
+
+26:22 
+With your data. This is your address. Right this is. Also your data this is your. Access whenever. CPU. Is. Wants to. Access it. 
+
+26:28 
+Right right. Plus is. The operator. 
+
+26:31 
+Class is the. Operator that is. The instruction. One. Instruction have three. 
+
+26:35 
+Part. 
+
+26:37 
+Instruct. Ion. And. Operant. Oper. Ator. And again. Open it here it is. Working like that this is. Operate this is operand this is oper. Ator oper. Ator right. Is that the sum oper. 
+
+26:48 
+Ation class minus. Division multiplication. Is that the operator. Operator. Is fixed some specific oper. Ator are there. Operational things I have to do. Class okay computer two. 
+
+26:54 
+I have to do that task. So computer. Happens if you have the. Au. That is. Arithmetic logic. Unit arithmetic. Logic unit and. Putting logic unit no. Those yes these are the operator. I have. 
+
+27:03 
+Given the instruction. Know that okay I have to do. The plans I will do. But to do the. Exam. For that. I need to fit. Up that's. Why instruction is divided. Into some. Cycle that. 
+
+27:13 
+Is for instruction cycle. Means. The con ex. Ecute. Three steps are. There in the instruct. Ions I can write. So. It is facing the instruct. Ion that okay I have to do. The addition but after. 
+
+27:26 
+Facing the instruction. Now this record. Will be there in. This decode part all these. Will be there I need to. Place a I need to catch. 
+
+27:30 
+B. 
+
+27:32 
+Oper. 
+
+27:32 
+Ant operator. 
+
+27:33 
+And. The effective address. Yeah. The concept of. Effective address calcul. Ation. Here in detail we will learn. In addressing. Mode for now. Just basic idea I'm telling. 
+
+27:40 
+You because science is effect. Ive address so. Many things are there which. We will learn in addressing. More concepts but. Here just for understanding. You understand that. Effective address. 
+
+27:47 
+Means. Actually in which. Location my data is. 
+
+27:49 
+There. 
+
+27:50 
+Behind that. So many calculation is. There is not that much easy. So many calcul. Ation is there. That calculation will be. Done through the addressing. Mode then it will. Get the effective. 
+
+27:56 
+Address. Means. When in the. Data whenever in. Contract it will be. That way in. Address. Register will store. 
+
+28:03 
+That address. 
+
+28:04 
+If you will. Send that address. To the. Memory address. Register. Okay. Now to the address. Bar this is. Address bar. To the address bar. S it will. Extend that address okay. This is address. 
+
+28:13 
+It will access that address. Will set that address. You have to go there. Add. Ress bars will. Go there address. Bus will fetch. Okay this address. From that address. It will. Pick the data. 
+
+28:22 
+That okay. In this address the data. Is fine it is going to. Pick that data. Your delivery. Points like your delivery. Boy pick up. Someone is coming to me. Come right so. The become going came. 
+
+28:30 
+It will become. That data. The pickup one came to your house. In your address. To the address. Bar to become. One team okay. After. That whenever. The point. Came you hand over. That data to the. 
+
+28:39 
+Mega boy. Again whatever. I'm telling you. I'm taking your query the pick up. One name and take the. Data now it will. Store that data. In some container something. Is required to store. 
+
+28:46 
+That data where. That will be stored to that. If they are mbr. It. Was stored that data. Whatever you. Pick up. That will be. MD. R and. In data. Bank this data. Will come. The data bars. 
+
+28:57 
+Is taking that data. Carrying that data. It will carry that data. And it. Will send it to the. 
+
+29:00 
+CPU. 
+
+29:02 
+Again. After getting. The data just. Like how you. Got B and C. Both you got this. Data after getting. The data. Simply will do the oper. Ation in the C. PU. AU. LU will confirm that oper. 
+
+29:11 
+Ation after that. When. Ever the operation is working. There is a very. Important reg. Ister that is. Called accumul. Ator. Sometimes. A accumulator. That is the most important. Resistor. 
+
+29:20 
+Whenever CPU is working. Then. And there if. You will store that data. Into acc. Ommodation basing purpose. Whenever some students is not. There C. PU is storing back in. Accumulator if. 
+
+29:28 
+It is performing one operation. Then and there it will. Store contemporarily. In accumulator. After that it will. Transform okay. All work will be. Done through the accumul. Ator accumulator. 
+
+29:35 
+Is a very powerful. Resistor. Which is mostly used by the. CPU. Not being any. Operation. So. Through that similar time it. Is to one then it. Is transfer it to the. A. Register. For the a mem. 
+
+29:45 
+Ory a memory or. Instant whatever. So here. In a instead of a I. Will take in X. Because a means. Normally we are considering. As a. Letter that's why I'm taking. As X means. Any other location or. 
+
+29:52 
+Any other resistor. I want to transfer that. Enough now what. Will happen? The CPU. Needs the operation CPU got the result. Again C. PU need to. Send that data. To the data. Base. If you. 
+
+30:03 
+Get that data from the. Memory. So if you need the operation. After doing the. Result. Again simply setting. Through the data bars. To store that data. Into the mem. 
+
+30:10 
+Ory. 
+
+30:11 
+Right now. You tell me. Then which one. Is unidirectional. Which one is bidirectional. With this concept what. You understand. Address bars is. Unidirectional or bi. Directional. And data mass. 
+
+30:19 
+Is unidirectional. Or bi-directional. Only. One is. Concept. You can tell what you understand. That means one is. Unidirectional which one is. 
+
+30:26 
+Right direction. 
+
+30:30 
+Exactly. Here only. You have to understand. Right? Yes. Because definitely for. The address. Bars we are using. To send the address only. Whenever. You want go to the address. Then after that. 
+
+30:39 
+You are picking the. Link data pass. Require both sides to. Face the data from the. CPU again. To the store. The result from the C. PU to memory. Right so that's why. Definitely. Here. 
+
+30:47 
+You are able to understand. It this is the. One area we are. Going to see right. Exactly. This is your C. PU register computational. Logic memory unit. Where you see that this is your. 
+
+30:54 
+Data bus line the data. Bus is always bid. Irectional it is. Bi-directional atlas bus. Is actually unidirectional. One side is. Okay that's. Why address bar. S and data bars unidirectional. 
+
+31:02 
+And bi-directional. To understand. Here. Right. This is un. Idirectional why this is bi. Directional. And this is the. Area of. Now. Tell me about the control. Bus. Can you tell me control. 
+
+31:12 
+Password. Yes. You understand. That yes data. Bus address. Bus and control bus. Address bus is definitely. Unidirectional. Data bus. Is bi-directional. And control. Maps will be. 
+
+31:55 
+Also because control. Must be sending. Signal simply. Is sending signal to. Input output devices. And again. From the input down. Device also some signal. Link to send to the. CPU. By some inter. 
+
+32:04 
+Rupt interrup. T this is like drug. Signal interrupt is. What again another concept is coming. What is interrupt. Interrupt means what. I am ready to trans. Fer just. 
+
+32:10 
+Like that ma'am give me WhatsApp. 100. Is rambling right. So just like that. Only input output. Device also interacting like. You are going to. Frame something print. Er is ready you are getting. 
+
+32:17 
+A free trial ready. You give the printout. Now it is done you are getting. That okay everything. Is done. So that means. This signal is required. If you also sending the signal. 
+
+32:24 
+No input output device. And go down to device. Also sending the sign to the. CPU. That's why this control. Mass is required. Right and that's why. Definitely it should be. Bidirectional. Yes or no. 
+
+32:31 
+This should be bidirectional. Don't be confused. With this area. Maybe you will. Be confused with this address. Bus and all. The address bars in bi-directional. By. Looking that don't be conf. 
+
+32:38 
+Used here. It is. Might be that maybe when you. Confuse. This is just like how the interaction is going on it is not. Telling you undirectional and bi-directional. Okay this is. 
+
+32:45 
+The how this interaction. Going on remember. Write down. It the address. Bars is un. Idirectional. Data bars is. Bidirectional. Control. Bars is also. Bi direction. Right. Yes. Conceptually. 
+
+32:56 
+Being clear conceptually. Being clear because they are. Giving it just to show. That just. To show. What is the connection. It is not telling you. Which one is unidirectional. 
+
+33:02 
+Which one is bi-directional. Okay. This is. Your what you. Can architecture what I already told you. These. Are the sub registers. What are the special. Purpose register. A new CPU and. Register. 
+
+33:15 
+Here. Also another. Thing regarding. Mr and mdr. I have to tell you from where you are getting the numeric. Al. The size of the address. Bus and size of the. Database. 
+
+33:23 
+Is a very popular numerical area. Size of address. Bus and size of the data. And. Address. Bar. What. You are sending. You are setting the. Address. So it is. In binary. Computer is working. 
+
+33:36 
+With binary right. You are working you are. Sending the address. And it will be working. As bina. Ry. Yes or no? Right. If. There are. Tot. Al. Maybe. Two. Just for. Example you. There are total. 
+
+33:52 
+215. Lakhs that means 2. 50 addresses. Are there. Right. 
+
+33:55 
+Ly addresses are there. 
+
+33:56 
+To access. This 250 address. Es in bina. Ry commune is always. Working in binary. To access this. 250 address. Means to give the number. Ing into 50 add. Ress how many bins. Will be required. 
+
+34:05 
+How many. Bins will be requ. Ired to send. 
+
+34:07 
+That address. 
+
+34:08 
+How. You are representing it into. Binary how many. 250. Addresses. 
+
+34:16 
+There are place. 
+
+34:22 
+Two. Pass zero is one. Two to the power one is two. Two to the power three is. Two to the power. Two is four. Two to the power three is. Eight two to the power. Four is 16. Two to the power five is. 
+
+34:30 
+32. Two to the power six. Is 64. Soon. To the power seven is. One when the eight two to. The power eight is. 256. Two to the power. Nine is five. One two to. The power 10 is. 102. 2. 
+
+34:40 
+This all will be required. Everywhere everywhere. This is declared. I told. You 250. Total 250 number of. Addresses are there 2 10 to 15. Number of flags are there. Using any beam can I. 
+
+34:47 
+Represent or not? Anything. Is more than suffic. Ient right using. Seven bet I cannot. Because using seven bit. I can represent 12. 8 analysis. Using. Eight being definitely. I can represent. 
+
+34:55 
+56 number of add. Resses here I have 250 number of. Addresses what will be. The range. The range will be. Always remember. It is starting with zero. Right so 0. To 255. Last address. 
+
+35:03 
+I can represent. That is 2. 55 not 25. 6. Always coming. Or not. With one. Since total in total to. 56 number of addresses. But the highest. Number. Five number is 25. 5. So it is. 
+
+35:13 
+This line total address. If they are telling that total. Number of addresses is. 250. That is one type of question. And if they are telling the. Highest. Address high end loc. Ation. 
+
+35:20 
+You are getting a question. Like that. The highest. Location is 5. 13 you have to. Access. A address. The address is 5. Or 3. High. Est address. Minus address. Is 513. Then how. Many on. 51. 
+
+35:32 
+2 whether I'm asking you. 512. That is your highest. Address. Then. How many bit will be. Required. Yeah. Maybe that was. Te I am. Address this. Is highest address. Is 512 then you cannot. 
+
+35:42 
+Do any nine. Weeks because nine. Wind means zero. Two five one one. The highest. Address is fine one. One not five one two. Whenever you are. Going to find one two. That is your highest address. 
+
+35:50 
+Means you have to go for. 10. Okay total. Number of addresses. That is. This one highest. Address highest location. Highest address. That is this one means. Definitely I have to go to. The 10. 
+
+35:58 
+Minute because the. Range. Range is. Matter. 512 means the range. Is 0 2 5 1. 1. Whenever I'm going to buy one. Two then there I have to. Shift it to 10. Bit 5. 1 2 range is coming here. The. 
+
+36:08 
+Range and total don't. Do mistake here. This is very. Important concept. Everywhere it will be. Required okay. So that's why. M a ribbon. Address buff. Er or address. Bus how many bean. 
+
+36:16 
+Will be there. That calculation you. Need to do according to the range you have to. Convert in the concept. Of 2 to the power. N then. That n bit will. Be required for the address. Bus. 
+
+36:24 
+But for the data. Mass how many. Bit will be there for. The data bars that is depending. On your data size. Because. They are even taking that. Data to turn. Data you are taking. If it is admin. 
+
+36:31 
+Data I need adm. In itself. I. Need 16 minutes. Just like. A small thing you need a small. Container everything. You need a big container. According. To the size of the data. 
+
+36:40 
+Your container size will. Increase or decrease. That is your. Container size. But your address. Is not depending according. To your class size. Yes. Your track is to be. Skipped and or free basket. 
+
+36:47 
+Or phone B escape tag. That does not matter. About your address. In address. Specific three to. More lights will be there your. Plant number will be fixed. By the community. There are. Hundred flag. 
+
+36:55 
+That means even is a. Four main game plant also. Then also your. Flat number will be within. Zero to 99. Right. It is not depending on the. Size of the plant. Is depending on how many. 
+
+37:03 
+Plants are there. They are giving some numbering. According to them. Yes remember. That adrenal is not depending. On the size of the data. And then. Depending on how. Many total add. 
+
+37:10 
+Resses are there. To represent that. Address how many. B is required. That is depending on that. But. Data means I am. Carrying that data. I am carrying that. Material. Your. Hand over the. 
+
+37:19 
+Makeup point. What is the. Size of the data? That is depending on. This thing the. Data size is more. Your data bus require. Mode if the data science. Is less your data. Bus requiredness. 
+
+37:27 
+So for the data. No need to do. 2 to the power 8 or. Anything directly data. Size whatever data. Bus will be that. Only but address. Bus means whatever. Your address you need to convert. 
+
+37:34 
+In the range and. You need to convert into. The foreign concept. Then you need to. Lose. 
+
+37:37 
+Yes. 
+
+37:40 
+I. Told you so many things. Actually today in. This. Two-ton story. Behind that total. Story so many things I'm telling you. And then person. Sure you are getting question from. Here 100. Sure. 
+
+37:48 
+Please remember all these. Things you remember. Okay. This is. Your architecture. Just one concept I. Will tell you after that we will. Go that is. Your DMA. This is also very important part of. 
+
+37:56 
+Your company. Memory. Access. Simply. If we are. Keep on busy CPU. For doing input output operation that is actually. A wastage of time. Because if you have. More important work. To. 
+
+38:05 
+Execute the program because. It is the process. Where you are processing. The process. Are have. A more important work. Right. So it is just like a prime minister. Prime minister have lots of. 
+
+38:12 
+Work so if we are. Interfering always prime. Minister for small small. Things that will be not good. That's why. Whenever. Some in two down. To require. Whenever the only move out. 
+
+38:20 
+Put operation require. Device needs some data. Then. By my passing. The CPU that is your. Direct memory access. Direct memory access. Is a special purpose of. Access. Where it will by. Pass the CPU. 
+
+38:28 
+Directly it will access. The device and memory. Input. Output will be directly. Access. The device. Or the memory. Okay that is. Even DMA. Concept and this is. When you will not. Interview. One in. 
+
+38:39 
+Sign that also many. Concept is there we are thinking. CP will not inter. Fere but actually. We may need the. Permission from the C. PU. Because why? Because we are remember. One thing the. 
+
+38:46 
+Bus is common. This data. Mark and address bar. S. This is common. Means. Bar CPU is. Working the same pass. BMA also need. As the bus is. Common. Although CPU will not. Do the work. Maybe CP is. 
+
+38:57 
+Guidance if he is not. Being the one but still. DMN need. The permission from the C. PU that. The bus is. Free or not. Whenever. The bus is free. Then only. Can work. Otherwise there will be. 
+
+39:05 
+The pollution. There will be the accident. Okay. So we are. Thinking DMA is working. Directly CP with. Compareance is not requ. Ired behind that. Also the. Permission requ. 
+
+39:13 
+Irement DMI is asking for. The permission. Whenever CPU. Grant the permission. Then only diffuse. If DMA is working it. S like. Some other. Normal. Worker are there. Those one car is asking. 
+
+39:22 
+To the prime minister yes. We need to do this one. Prime minister. Will give the condition okay. You can do the work. At that time the road should be. Free if the road. Is not free then they cannot. 
+
+39:28 
+Work. Don't get the access. Of the partition. In taking the permission. Then after that. Without. CP with their parents. They. Will. One we will learn. That different mode of. 
+
+39:37 
+DMA there are different. Main mode also. This chapter is also important. For you. Different mode of D. M I gave you. That overview of. Total computer. Architecture what you are going to. Learn here. 
+
+39:44 
+We will learn that DMA mode we will learn the addressing mode we will learn the. Cash access. In cash mapping. Those. All one by one we. Will go ahead. But. Before that you will. 
+
+39:53 
+Get the question whatever. I explain you will get the. Question as a. Queen att. Ached with this class we will. Attach with this class. Month. To. Then only. Your nothing will be complete. Always. 
+
+40:01 
+Remember your learning is not. Complete whenever. You are not practicing the. Question. Already I expl. Ained must att. Empt in my today. Will get in I'll give him some. 
+
+40:07 
+Question I think that question. Yes you are going to. Read or not. And the. New make. Video long. That I have given. You the numerical video. Basic cubical. That is your the calcul. Ation. One that. 
+
+40:17 
+We use then attempt. Is okay. Now. Is not one thing the foundation. Folder I gave already. That video. 20 minute video. Maybe once. That then attempt the test. So that you complete learning. 
+
+40:24 
+Will be done from this. Basics then we. Will move on to the next. Cooperate with me. Everything. Not possible in the class. Somewhere. Wherever concept requ. Ired in the class we will do that. 
+
+40:32 
+And you do the practice. Somewhere. Very one concept I will give you as. A recording question we will solve in the class. So this way. It has to run. We have to do that. You have to also. Cooperate. 
+
+40:39 
+Then only your complete. Understanding will be done. Okay. I hope. You all have been concept is. Clear. Give you so many questions. Whatever they are asking. From here. From this theory and num. 
+
+40:46 
+Erical both. Urinary numerical both. Required after. This Theory mask once done. Numerical small video. That is regarding. Your. Address calculation. How to calculate the. Number of. 
+
+40:54 
+Beans required for. Address bars. In the. Answer what's that. Then attempt the test. Okay. Again. Yes. Video. Title it is there. Under function. Last year also. I will add. Science. Mean time Union. 
+
+41:11 
+Conversion. The video. Is the foundation fold. Er also I will make a copy. In the computer. Architecture this folder. Also size. Paint time imminent convers. Ion Foundation. That is the name. Okay. 
+
+41:20 
+That is the name. In this class I will add. Also after this class. I am just adding that video. In this complete architect. Folder also. One that then. Attempt the test. Thank. You. 
